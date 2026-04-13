@@ -1,0 +1,13 @@
+{
+  "name": "p1_full_stack",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.9.0",
+    "mongodb": "^6.3.0"
+  }
+}
