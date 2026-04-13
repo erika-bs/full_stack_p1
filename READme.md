@@ -8,7 +8,7 @@
 ## 1 - clonar o repositório
 
 ```bash
-git clone https://github.com/erika-bs/p1_full_stack.git
+git clone https://github.com/erika-bs/full_stack_p1.git
 ```
 
 ## 2 - Subir os containers
